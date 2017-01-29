@@ -11,6 +11,14 @@ body {
 	overflow-x: hidden;
 }
 
+.hide_me {
+	opacity: 0;
+}
+
+.visible {
+	opacity: 1;
+}
+
 /* -- Barra de navegação -- */
 .img-logo {
 	height: 40px;
