@@ -11,10 +11,6 @@ body {
 	overflow-x: hidden;
 }
 
-.hide_me {
-	opacity: 0;
-}
-
 .visible {
 	opacity: 1;
 }
